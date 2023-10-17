@@ -30,7 +30,7 @@
 
 
 ### (8장 관련) config 패키지의 WebSecurityConfig 클래스의 filterChain메서드 관련 오류 발생
-**문제 상황:** 서버 실행 시 filterChain 관련 오류 발생하며 서버 실행되지 않
+**문제 상황:** 서버 실행 시 filterChain 관련 오류 발생하며 서버 실행되지 않음
 
 **해결 방법:** 
 
