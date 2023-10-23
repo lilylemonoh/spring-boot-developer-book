@@ -1,6 +1,6 @@
 const token = searchParam('token')
 
-if(token) {
+if (token) {
     localStorage.setItem("access_token", token)
 }
 
